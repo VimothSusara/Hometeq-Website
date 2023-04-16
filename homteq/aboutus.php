@@ -1,4 +1,4 @@
-<?php
+P<?php
 
 $pagename="homteq: cloud controlled tech for your home"; //Create and populate a variable called $pagename
 
